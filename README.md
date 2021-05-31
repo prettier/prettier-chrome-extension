@@ -83,6 +83,11 @@ yarn test-only
 yarn test
 ```
 
+### Known Issues
+
+- ContextMenu will be shown on all editable fields, but will work only on textarea
+- Elements present inside iframe can't be formatted
+
 ## Help
 
 We would love your [help](https://github.com/prettier/prettier-browser-extension/issues) :)
